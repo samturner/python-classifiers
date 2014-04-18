@@ -1,4 +1,5 @@
 import numpy as np
+import time
 from collections import Counter
 
 num_test = 181	# the number of test examples, the rest will be training
@@ -56,7 +57,9 @@ def NN(k, ktest, ktrain):
 def out(f, msg):
 	print(msg)
 	f.write(msg + "\n")
-	
+
+start_time = time.time()				
+
 def main():
 	f = open("k_nearest_neighbor.log", "a")
 	
@@ -70,10 +73,10 @@ def main():
 		exit()
 		
 	out(f,"---------")
-	
 	#TODO: Implement stratified cross validation
-	k_test = instances[:num_test]			# mock the testing set
-	k_train = instances[num_test+1:]			# mock the training set
+	
+	k_test = instances[:num_test]			
+	k_train = instances[num_test+1:]		
 	res = NN(num_nn, k_test, k_train)		# the resulting test case and the predicted class
 		
 	correct = 0
@@ -84,9 +87,11 @@ def main():
 	out(f, "Number of test instances: " + str(num_test))
 	out(f, "Correctly classified instances: " + str(correct) + "\t[" + str(int(float(correct)/float(num_test) * 100)) + "%]")
 	out(f, "Incorrectly classified instances: " + str(num_test-correct) + "\t[" + str(int((1-float(correct)/float(num_test)) * 100)) + "%]")
+	out(f, "Completed in " + "%0.2f" % (time.time() - start_time) + " seconds");
 	
 	f.write("\n");	# new lines for output
-			
+	f.close()
+
 if __name__ == '__main__':
 	main()
 
