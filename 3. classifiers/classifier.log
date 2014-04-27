@@ -148,3 +148,2029 @@ Incorrectly classified instances: 13	[24%]
 
 Completed in 5.24 seconds
 
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.26 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 505
+Number of test instances: 27
+Correctly classified instances: 20	[74%]
+Incorrectly classified instances: 7	[25%]
+
+
+Starting Fold: 2
+Number of training instances: 505
+Number of test instances: 27
+Correctly classified instances: 15	[55%]
+Incorrectly classified instances: 12	[44%]
+
+
+Starting Fold: 3
+Number of training instances: 505
+Number of test instances: 27
+Correctly classified instances: 21	[77%]
+Incorrectly classified instances: 6	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 505
+Number of test instances: 27
+Correctly classified instances: 20	[74%]
+Incorrectly classified instances: 7	[25%]
+
+
+Starting Fold: 5
+Number of training instances: 505
+Number of test instances: 27
+Correctly classified instances: 19	[70%]
+Incorrectly classified instances: 8	[29%]
+
+
+Starting Fold: 6
+Number of training instances: 505
+Number of test instances: 27
+Correctly classified instances: 24	[88%]
+Incorrectly classified instances: 3	[11%]
+
+
+Starting Fold: 7
+Number of training instances: 505
+Number of test instances: 27
+Correctly classified instances: 20	[74%]
+Incorrectly classified instances: 7	[25%]
+
+
+Starting Fold: 8
+Number of training instances: 505
+Number of test instances: 27
+Correctly classified instances: 22	[81%]
+Incorrectly classified instances: 5	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 505
+Number of test instances: 27
+Correctly classified instances: 18	[66%]
+Incorrectly classified instances: 9	[33%]
+
+
+Starting Fold: 10
+Number of training instances: 505
+Number of test instances: 27
+Correctly classified instances: 19	[70%]
+Incorrectly classified instances: 8	[29%]
+
+
+Starting Fold: 11
+Number of training instances: 505
+Number of test instances: 27
+Correctly classified instances: 21	[77%]
+Incorrectly classified instances: 6	[22%]
+
+
+Starting Fold: 12
+Number of training instances: 506
+Number of test instances: 26
+Correctly classified instances: 17	[65%]
+Incorrectly classified instances: 9	[34%]
+
+
+Starting Fold: 13
+Number of training instances: 506
+Number of test instances: 26
+Correctly classified instances: 19	[73%]
+Incorrectly classified instances: 7	[26%]
+
+
+Starting Fold: 14
+Number of training instances: 506
+Number of test instances: 26
+Correctly classified instances: 25	[96%]
+Incorrectly classified instances: 1	[3%]
+
+
+Starting Fold: 15
+Number of training instances: 506
+Number of test instances: 26
+Correctly classified instances: 19	[73%]
+Incorrectly classified instances: 7	[26%]
+
+
+Starting Fold: 16
+Number of training instances: 506
+Number of test instances: 26
+Correctly classified instances: 19	[73%]
+Incorrectly classified instances: 7	[26%]
+
+
+Starting Fold: 17
+Number of training instances: 506
+Number of test instances: 26
+Correctly classified instances: 18	[69%]
+Incorrectly classified instances: 8	[30%]
+
+
+Starting Fold: 18
+Number of training instances: 506
+Number of test instances: 26
+Correctly classified instances: 19	[73%]
+Incorrectly classified instances: 7	[26%]
+
+
+Starting Fold: 19
+Number of training instances: 506
+Number of test instances: 26
+Correctly classified instances: 23	[88%]
+Incorrectly classified instances: 3	[11%]
+
+
+Starting Fold: 20
+Number of training instances: 505
+Number of test instances: 27
+Correctly classified instances: 19	[70%]
+Incorrectly classified instances: 8	[29%]
+
+
+Completed in 2.29 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.09 seconds
+
+Running Nearest Neighbour with [5] nearest neighbours...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 34	[64%]
+Incorrectly classified instances: 19	[35%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 37	[69%]
+Incorrectly classified instances: 16	[30%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 42	[79%]
+Incorrectly classified instances: 11	[20%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 39	[73%]
+Incorrectly classified instances: 14	[26%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 42	[79%]
+Incorrectly classified instances: 11	[20%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.18 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 6.58 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 6.60 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.25 seconds
+
+Running Naive Bayas...
+---------
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.38 seconds
+
+Running Naive Bayas...
+---------
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.26 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.29 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.18 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.22 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.26 seconds
+
+Running Naive Bayas...
+---------
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.20 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.14 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.13 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.10 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.12 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.17 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.12 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.11 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75.9259259259%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60.3773584906%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77.358490566%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84.9056603774%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71.6981132075%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81.1320754717%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71.6981132075%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81.1320754717%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75.4716981132%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75.9259259259%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.12 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75.9259259259%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60.3773584906%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77.358490566%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84.9056603774%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71.6981132075%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81.1320754717%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71.6981132075%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81.1320754717%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75.4716981132%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75.9259259259%]
+Incorrectly classified instances: 13	[24%]
+
+
+Completed in 2.19 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+Total percentage correctly classified: 75
+
+Completed in 2.12 seconds
+
+Running Naive Bayas...
+---------
+
+Starting Fold: 1
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 2
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 32	[60%]
+Incorrectly classified instances: 21	[39%]
+
+
+Starting Fold: 3
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 41	[77%]
+Incorrectly classified instances: 12	[22%]
+
+
+Starting Fold: 4
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 45	[84%]
+Incorrectly classified instances: 8	[15%]
+
+
+Starting Fold: 5
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 6
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 7
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 38	[71%]
+Incorrectly classified instances: 15	[28%]
+
+
+Starting Fold: 8
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 43	[81%]
+Incorrectly classified instances: 10	[18%]
+
+
+Starting Fold: 9
+Number of training instances: 479
+Number of test instances: 53
+Correctly classified instances: 40	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Starting Fold: 10
+Number of training instances: 478
+Number of test instances: 54
+Correctly classified instances: 41	[75%]
+Incorrectly classified instances: 13	[24%]
+
+
+Total percentage correctly classified: 75%
+
+Completed in 2.09 seconds
+
