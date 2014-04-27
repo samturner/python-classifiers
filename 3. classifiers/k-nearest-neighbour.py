@@ -2,7 +2,7 @@ import numpy as np
 import time
 from collections import Counter
 
-num_test = 181	# the number of test examples, the rest will be training
+num_test = 100	# the number of test examples, the rest will be training
 num_nn = 3		# the number of nearest neighbours to calculate
 
 # build a dictionary of vectors and classes
@@ -58,9 +58,9 @@ def out(f, msg):
 	print(msg)
 	f.write(msg + "\n")
 
-start_time = time.time()				
-
+				
 def main():
+	start_time = time.time()
 	f = open("k_nearest_neighbor.log", "a")
 	
 	out(f, "Running Nearest Neighbour with [" + str(num_nn) + "] nearest neighbours...");
@@ -74,9 +74,11 @@ def main():
 		
 	out(f,"---------")
 	#TODO: Implement stratified cross validation
-	
-	k_test = instances[:num_test]			
-	k_train = instances[num_test+1:]		
+	k_test = instances[-num_test:]
+	k_train = instances[:-num_test]
+
+	# k_test = instances[:num_test]			
+	# k_train = instances[num_test+1:]		
 	res = NN(num_nn, k_test, k_train)		# the resulting test case and the predicted class
 		
 	correct = 0

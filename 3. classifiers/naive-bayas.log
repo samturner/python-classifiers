@@ -1,0 +1,35 @@
+Running naive bayas...
+---------
+Number of test instances: 100
+Correctly classified instances: 76	[76%]
+Incorrectly classified instances: 24	[24%]
+Completed in 0.06 seconds
+
+Running naive bayas...
+---------
+Number of test instances: 100
+Correctly classified instances: 76	[76%]
+Incorrectly classified instances: 24	[24%]
+Completed in 0.05 seconds
+
+Running naive bayas...
+---------
+Number of test instances: 100
+Correctly classified instances: 76	[76%]
+Incorrectly classified instances: 24	[24%]
+Completed in 0.06 seconds
+
+Running naive bayas...
+---------
+Number of test instances: 50
+Correctly classified instances: 40	[80%]
+Incorrectly classified instances: 10	[19%]
+Completed in 0.04 seconds
+
+Running naive bayas...
+---------
+Number of test instances: 50
+Correctly classified instances: 40	[80%]
+Incorrectly classified instances: 10	[19%]
+Completed in 0.04 seconds
+
