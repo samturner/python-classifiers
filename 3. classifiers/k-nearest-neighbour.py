@@ -1,5 +1,6 @@
 import numpy as np
-import time
+import time, sys
+import argparse
 from collections import Counter
 
 num_test = 100	# the number of test examples, the rest will be training
@@ -60,6 +61,14 @@ def out(f, msg):
 
 				
 def main():
+	parser = argparse.ArgumentParser(description='K Nearest Neighbour Algorithm - Reads a pima.csv file and attempts to classify a number of instances specified.')
+	parser.add_argument("--t", "-t", help="number of instances you want to test, the remaining instances will be used as a training set.", type=int, default=50)
+	parser.add_argument("--k", "-k", help="number of nearest neighbours", type=int, default=3)
+	args = parser.parse_args()
+		
+	num_test = args.t 
+	num_nn = args.k
+	
 	start_time = time.time()
 	f = open("k_nearest_neighbor.log", "a")
 	

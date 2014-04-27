@@ -23,7 +23,7 @@ def normal_pdf (u, o, x):
 	return (1 / np.sqrt(2*np.pi*o)) * pow(np.e, -(((x - u)**2)/(2*o)))
 
 
-# the naive bayas
+# the naive bayes
 # ktest => the testing set
 # ktrain => the training set
 def NB(ktest, ktrain):
@@ -84,9 +84,9 @@ def out(f, msg):
 
 def main():
 	start_time = time.time()	
-	f = open("naive-bayas.log", "a")
+	f = open("naive-bayes.log", "a")
 	
-	out(f, "Running naive bayas...");
+	out(f, "Running naive bayes...");
 		
 	# read in the file and build a data structure to store values and classes
 	instances = build_vectors(open("pima.csv", "rU"))
