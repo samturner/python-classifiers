@@ -3,9 +3,6 @@ import time, sys
 import argparse
 from collections import Counter
 
-num_test = 100	# the number of test examples, the rest will be training
-num_nn = 3		# the number of nearest neighbours to calculate
-
 # build a dictionary of vectors and classes
 def build_vectors(file):
 	i = []
@@ -85,9 +82,7 @@ def main():
 	#TODO: Implement stratified cross validation
 	k_test = instances[-num_test:]
 	k_train = instances[:-num_test]
-
-	# k_test = instances[:num_test]			
-	# k_train = instances[num_test+1:]		
+		
 	res = NN(num_nn, k_test, k_train)		# the resulting test case and the predicted class
 		
 	correct = 0
