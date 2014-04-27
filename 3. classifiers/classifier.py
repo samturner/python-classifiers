@@ -174,6 +174,8 @@ def main():
 				chunks[i%num_test].append(instances.pop(j))
 				break
 
+	correct_percentages = [];
+
 	for i in range(len(chunks)):
 		#shift to the next fold
 		chunks.append(chunks.pop(0))
@@ -199,11 +201,14 @@ def main():
 		out(f, "Number of training instances: " + str(len(k_train)))
 		out(f, "Number of test instances: " + str(len(k_test)))
 		out(f, "Correctly classified instances: " + str(correct) + "\t[" + str(int(float(correct)/float(len(k_test)) * 100)) + "%]")
+		correct_percentages.append(float(correct)/float(len(k_test) * 100));
 		out(f, "Incorrectly classified instances: " + str(len(k_test)-correct) + "\t[" + str(int((float(len(k_test)-correct)/float(len(k_test))) * 100)) + "%]")
-		
-
 		f.write("\n");	# new lines for output
+
+	out(f, "\nTotal percentage correctly classified: " + str(sum(correct_percentages)/len(correct_percentages) * 100))
+		
 	out(f, "\nCompleted in " + "%0.2f" % (time.time() - start_time) + " seconds\n");
+	
 	f.close()
 
 if __name__ == '__main__':
