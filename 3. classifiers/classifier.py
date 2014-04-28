@@ -171,8 +171,8 @@ def main():
 
 	correct_percentages = [];
 
+	#print folds to pima-folds.csv
 	ff = open('pima-folds.csv', 'w')
-
 	for i in range(len(chunks)):
 		ff.write('fold'+str(i+1)+"\n")
 		for j in chunks[i]:
