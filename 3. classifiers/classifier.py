@@ -190,9 +190,11 @@ def main():
 		for j in chunks[1:]:
 			for k in j:
 				k_train.append(k)
-			
-		res = NN(num_nn, k_test, k_train)		# the resulting test case and the predicted class
-		# res = NB(k_test, k_train)	
+
+		if algorithm == "KNN":
+			res = NN(num_nn, k_test, k_train)
+		elif algorithm == "NB":
+			res = NB(k_test, k_train)
 
 		correct = 0
 		for c in range(len(res)):		# count the number of correct classifications
