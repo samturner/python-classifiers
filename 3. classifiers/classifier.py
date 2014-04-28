@@ -1,7 +1,7 @@
 import numpy as np
-import time, sys
-import argparse
+import time, sys, argparse, random
 from collections import Counter
+
 
 # build a dictionary of vectors and classes
 def build_vectors(file):
@@ -10,6 +10,7 @@ def build_vectors(file):
 	for line in file:
 		i.append({'values': np.array(map(float,line.split(",")[0:-1])), 'class': line.split(",")[-1].strip()})
 	print "Instances Loaded: " + str(len(i));
+	random.shuffle(i)	# shuffle the results 
 	return i
 	
 # given two attribute lists, find the euclidean distance, wraps numPy function
