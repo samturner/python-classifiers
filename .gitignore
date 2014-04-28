@@ -1,3 +1,2 @@
-k_nearest_neighbor.log
-naive-bayes.log
+*.log
 .DS_Store
