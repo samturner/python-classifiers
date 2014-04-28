@@ -116,19 +116,12 @@ def NB(ktest, ktrain):
 def out(f, msg):
 	print(msg)
 	f.write(msg + "\n")
-
-
-def chunks(l, n):
-    if n<1:
-        n=1
-    return [l[i:i+n] for i in range(0, len(l), n)]
-
 				
 def main():
 	parser = argparse.ArgumentParser(description='K Nearest Neighbour Algorithm - Reads a pima.csv file and attempts to classify a number of instances specified.')
 	parser.add_argument("--folds", "-f", help="number of instances you want to test, the remaining instances will be used as a training set.", type=int, default=10)
 	parser.add_argument("--neighbours", "-k", help="number of nearest neighbours", type=int, default=3)
-	parser.add_argument("--algorithm", "-a", help="the algorithm to run (KNN/NB)", default="NB")
+	parser.add_argument("--algorithm", "-a", help="the algorithm to run (KNN/NB)", default="KNN")
 	parser.add_argument("--input", "-i", help="the .csv file you want to run the algorithm with", default="pima.csv")
 	args = parser.parse_args()
 		
@@ -177,6 +170,17 @@ def main():
 				break
 
 	correct_percentages = [];
+
+	ff = open('pima-folds.csv', 'w')
+
+	for i in range(len(chunks)):
+		ff.write('fold'+str(i+1)+"\n")
+		for j in chunks[i]:
+			for k in j['values']:
+				ff.write(str(k)+',')
+			ff.write(j['class'] + '\n')
+		ff.write('\n')
+
 
 	for i in range(len(chunks)):
 		#shift to the next fold
