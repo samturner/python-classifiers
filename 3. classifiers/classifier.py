@@ -129,6 +129,7 @@ def main():
 	parser.add_argument("--folds", "-f", help="number of instances you want to test, the remaining instances will be used as a training set.", type=int, default=10)
 	parser.add_argument("--neighbours", "-k", help="number of nearest neighbours", type=int, default=3)
 	parser.add_argument("--algorithm", "-a", help="the algorithm to run (KNN/NB)", default="NB")
+	parser.add_argument("--input", "-i", help="the .csv file you want to run the algorithm with", default="pima.csv")
 	args = parser.parse_args()
 		
 	num_test = args.folds 
@@ -149,7 +150,8 @@ def main():
 		exit()
 
 	# read in the file and build a data structure to store values and classes
-	instances = build_vectors(open("pima.csv", "rU"))
+	print "Using " + args.input
+	instances = build_vectors(open(args.input, "rU"))
 	
 	if (num_test > len(instances)):		# make sure we don't have to many test instances
 		out(f, "Not enough data to fill folds, exiting...")
