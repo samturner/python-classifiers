@@ -37,10 +37,29 @@ To preprocess the data, a number of steps where taken:
 
 ### Attribute Selection
 
-The Correlation Based Feature Selection (CFS) method was used to generate a CSV with a reduced number of attributes.
+The Correlation Based Feature Selection (CFS) method was used to generate a CSV with a reduced number of attributes. CFS operates under the assumption that there is redundant or irrelevant fields in the data. Kohavi and John formalise the definition:
+
+**Definition:** A feature $$$V_i$$$ is said to be relevant if there exists some $$$v_i$$$ and $$$c$$$ for which $$$p(V_i = v_i) > 0$$$ such that:
+
+$$
+p(C =c|V_i =v_i) \neq p(C =c)
+$$
+
+The simplest way to select a feature subset is to test each possible subset of values to find the one that minimises the error rate, but obviously, this is an exhaustive search of the space and is not optimal. There are three main categories of feature selection algorithms: *wrappers*, *filters* and *embedded* methods where the method chosen is heavily influenced by the metric used.
+
+##### Wrapper Algorithms
+
+##### Filter Algorithms
+
+##### Embedded Algorithms 
+
 
 ## 3. Results and Discussion
 
 ## 4. Conclusions
 
 ## 5. Reflection
+
+## 6. Bibliography
+
+* R. Kohavi and G. John. Wrappers for feature subset selection. Artificial Intelligence, special issue on relevance, 97(1–2):273–324, 1996.
