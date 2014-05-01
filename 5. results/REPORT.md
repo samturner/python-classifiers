@@ -33,7 +33,8 @@ To preprocess the data, a number of steps where taken:
 
 * Add headers for each column at the top of the file.
 * Change the class names from `0` and `1` to `class0` and `class1` respectively.
-* Remove instances where at least one attribute is invalid. For more explanation of why certain fields where chosen and how we decided to deal with them see *Appendix 1*.
+* Remove instances where at least one attribute is invalid. 
+* TODO: Discuss why we removed fields and didn't do some other type of normalisation
 * The attributes have then been normalised so all values are in the range $$$0 ≤ x ≤ 1$$$
 
 ### Attribute Selection
