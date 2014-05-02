@@ -33,8 +33,7 @@ To preprocess the data, a number of steps where taken:
 
 * Add headers for each column at the top of the file.
 * Change the class names from `0` and `1` to `class0` and `class1` respectively.
-* Remove instances where at least one attribute is invalid. 
-* TODO: Discuss why we removed fields and didn't do some other type of normalisation
+* Remove instances where at least one attribute is invalid. Refer to *Appendix 1 - Dealing with Missing Values* for our methodology and justification.
 * The attributes have then been normalised so all values are in the range $$$0 ≤ x ≤ 1$$$
 
 ### Attribute Selection
@@ -57,7 +56,7 @@ Wrapper algorithms use a predictive model to score feature subsets. Each new sub
 
 Filter algorithms use a proxy measure instead of the error rate to score a feature subset. Filter methods are chosen because they are fast to compute. Though faster, they often produce a feature set which is not tuned to a specific type of predictive model.
 
-The attributes selected by Weka's CFS where:
+The attributes selected as the 'best' by Weka's CFS where:
 
 * *Plasma Glucose Concentration*
 * *Body Mass Index*
@@ -99,7 +98,22 @@ For in depth instructions and documentation on the methodology followed to compl
 2. By default, this will run the NB algorithm with 10 folds. Run `python classifiers.py -h` for more information on arguments that the program will accept.
 
 
-
 ## 7. Bibliography
 
 * R. Kohavi and G. John. Wrappers for feature subset selection. Artificial Intelligence, special issue on relevance, 97(1–2):273–324, 1996.
+* http://www.utexas.edu/cola/centers/prc/_files/cs/Missing-Data.pdf
+
+## Appendix 1 - Dealing with Missing Data
+
+When deciding how to deal with missing attributes in the data we first had to first see if we could learn anything about the distribution of missing data. When choosing a method to deal with missing data, it is important to understand whether the values are missing at random or not. We could not find any correlation between missing values and any other attributes in the data set, therefore, we believe the data is missing completely at random.
+
+We considered a number of different methods such as *deletion methods*, *single imputation methods* and *model based* methods. In the end, we decided making use of the *listwise deletion* method is the most appropriate for the data set. We chose this method for its simplicity and the fact that it doesn't result in biased estimates or weaken variance for data that is missing completely at random.
+
+We decided to delete the rows where data was missing from any column for attributes where it didn't make sense to have a zero attribute. The attributes we decided on where:
+
+* Plasma Glucose Concentration
+* Diastolic Blood Pressure
+* Tricep Skin Fold Thickness
+* Body Mass Index (BMI)
+
+If we had more time, the best approach would have been to try a variety of different methods and compare the outcomes.
