@@ -12,7 +12,7 @@ This is important for a number of medical reasons. Primarily, it is useful to be
 
 ### Data Set Used
 
-The data set used was the Pima Indians Diabetes data that is publicly available from the UCI Machine Learning Repository at http://archive.ics.uci.edu/ml/. In its raw state it contains 768 instances described with 8 numeric attributes. Where each attribute is correlates to a patients personal characteristics and test measurements and each patient is of Pima Indian Heritage.
+The data set used was the Pima Indians Diabetes data that is publicly available from the UCI Machine Learning Repository at http://archive.ics.uci.edu/ml/. In its raw state it contains 768 instances described with 8 numeric attributes. Where each attribute is correlates to a patients personal characteristics and test measurements. Each patient is of Pima Indian Heritage.
 
 **The attributes are as follows:**
 
@@ -72,15 +72,26 @@ The attributes selected as the 'best' by Weka's CFS where:
 
 |										 | ZeroR | 1R | 1-NN | 5-NN | NB | DT | MLP
 | ------------ 							| ------------- | ------------ |
-| No feature Selection |  |  |
-| Correlation based feature selection |   |  |
+| **No feature selection** | 66.73% | 75.75% | 72.37% | 76.32% | 76.13% | 73.87% | 75.56% |   
+| **CFS** | 66.86% | 74.76%  | 71.37%| 74.39% | 77.97% | 76.84% | 78.53% |
 
 |										 | My1-NN | My5-NN | My-NB |
 | ------------ 							| ------------- | ------------ |
-| No feature Selection |   |  |
-| Correlation based feature selection |  | |
+| **No feature selection** |  72.21% |75.94%  | 75.55%
+| **CFS** | 71.74% | 74.76% | 77.97% |
 
 ### Discussion
+
+* ZeroR, Naïve Bayes, DT and MLP Weka Implementations where all faster one the CFS data.
+*  For our own implementations, our Naïve Bayes was faster using CFS.
+*  In general, Wekas implementation was faster or equal to our implementation. Though, in all situations variance was less than 1%. They where all fairly close.
+*  Feature selection was beneficial only in the case of a few algorithms, for the rest, it made them slower. Though, again the difference was only marginal.
+* The attributes chosen seem to be fairly intuitive. BMI and age are fairly basic indicators.
+* Feature selection techniques provide three main benefits:
+
+	* improved model interpretability,
+	* shorter training times,
+	* enhanced generalisation by reducing overfitting.
 
 
 ## 4. Conclusions
