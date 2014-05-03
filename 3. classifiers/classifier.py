@@ -106,6 +106,7 @@ def NB(ktest, ktrain):
 			p = out_vector[c]['p']
 			for i in range(len(out_vector[c]['data'])):
 				p *= normal_pdf(out_vector[c][str(i)+'_avg'], out_vector[c][str(i)+'_var'], curr['values'][i])
+			print p, pr
 			if p > pr:
 				pr = p
 				cl = c
@@ -122,7 +123,7 @@ def main():
 	parser = argparse.ArgumentParser(description='K Nearest Neighbour Algorithm - Reads a pima.csv file and attempts to classify a number of instances specified.')
 	parser.add_argument("--folds", "-f", help="number of instances you want to test, the remaining instances will be used as a training set.", type=int, default=10)
 	parser.add_argument("--neighbours", "-k", help="number of nearest neighbours", type=int, default=3)
-	parser.add_argument("--algorithm", "-a", help="the algorithm to run (KNN/NB)", default="KNN")
+	parser.add_argument("--algorithm", "-a", help="the algorithm to run (KNN/NB)", default="NB")
 	parser.add_argument("--input", "-i", help="the .csv file you want to run the algorithm with", default="pima.csv")
 	args = parser.parse_args()
 		
@@ -222,6 +223,3 @@ def main():
 
 if __name__ == '__main__':
 	main()
-
-
-
