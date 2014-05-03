@@ -82,7 +82,7 @@ The attributes selected as the 'best' by Weka's CFS where:
 
 ### Discussion
 
-* ZeroR, Naïve Bayes, DT and MLP Weka Implementations where all faster one the CFS data.
+* ZeroR, Naïve Bayes, DT and MLP Weka Implementations where all faster when using the CFS data.
 *  For our own implementations, our Naïve Bayes was faster using CFS.
 *  In general, Wekas implementation was faster or equal to our implementation. Though, in all situations variance was less than 1%. They where all fairly close.
 *  Feature selection was beneficial only in the case of a few algorithms, for the rest, it made them slower. Though, again the difference was only marginal.
@@ -95,6 +95,10 @@ The attributes selected as the 'best' by Weka's CFS where:
 
 
 ## 4. Conclusions
+
+On our data set, NB was not any more accurate than KNN, however it was significantly faster to compute. 
+Once we ran CFS, our NB suddenly became a lot more accurate than the KNN while the KNN lowered in accuracy.
+It is clear that NB is a much more efficient algorithm, and in our case, more accurate.
 
 ## 5. Reflection
 
