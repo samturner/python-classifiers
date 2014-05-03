@@ -1,5 +1,5 @@
 #COMP3308 Assignment 1 Report
-***Sam Turner** [312130678] and **James Cooper-Stanbury** []*
+***Sam Turner** [312130678] and **James Cooper-Stanbury** [312154402]*
 
 ## 1. Aim
 
