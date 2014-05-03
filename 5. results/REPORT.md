@@ -33,7 +33,7 @@ To preprocess the data, a number of steps where taken:
 
 * Add headers for each column at the top of the file.
 * Change the class names from `0` and `1` to `class0` and `class1` respectively.
-* Remove instances where at least one attribute is invalid. Refer to *Appendix 1 - Dealing with Missing Values* for our methodology and justification.
+* Remove instances using list wise deletion where at least one attribute is invalid. Refer to *Appendix 1 - Dealing with Missing Values* for our methodology and justification.
 * The attributes have then been normalised so all values are in the range $$$0 ≤ x ≤ 1$$$
 
 ### Attribute Selection
