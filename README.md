@@ -1,4 +1,6 @@
-# COMP3308 Assignment 1
+# Python Classifiers
+
+Implementations of both N-Nearest Neighbour and Naive Bayes classifiers in Python, also includes some sample data.
 
 ### Folders & Steps
 * **1. Raw Data** - Contains the raw pima indians diabetes `.data` file as well as the `.name` file as well as the assignment spec.
@@ -18,7 +20,7 @@
 
 * **5. Results** - contains a results spreadsheet and the final report.
 	* `results_matrix.xlsx` - Compares our classifiers to Weka's for both the data with no feature selection and the data with feature selection (this is also included in `report.pdf`)
-	* `report.pdf` - TODO
+	* `report.pdf` - Contains findings.
 
 ### Assumptions and Invalid Data
 * There are a number of fields in the data where attributes are missing and have been coded as 0. We have decided to remove the rows containing a 0 value in the following fields:
