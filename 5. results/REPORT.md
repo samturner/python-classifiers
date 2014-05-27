@@ -1,4 +1,4 @@
-#COMP3308 Assignment 1 Report
+# Findings Report
 
 ## 1. Aim
 
