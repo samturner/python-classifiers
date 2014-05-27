@@ -1,6 +1,6 @@
 # Python Classifiers
 
-Implementations of both N-Nearest Neighbour and Naive Bayes classifiers in Python, also includes some sample data.
+Implementations of both N-Nearest Neighbour and Naive Bayes classifiers in Python, also includes some sample data. Some references to Weka are made - it can be downloaded here: http://www.cs.waikato.ac.nz/ml/index.html
 
 ### Folders & Steps
 * **1. Raw Data** - Contains the raw pima indians diabetes `.data` file as well as the `.name` file as well as the assignment spec.
